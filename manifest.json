@@ -1,0 +1,63 @@
+{
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "forge-47.2.0",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "datapack testing 1.20.1",
+  "author": "",
+  "files": [
+    {
+      "projectID": 331936,
+      "fileID": 5143956,
+      "required": true
+    },
+    {
+      "projectID": 485681,
+      "fileID": 5109406,
+      "required": true
+    },
+    {
+      "projectID": 317780,
+      "fileID": 5189409,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 5101366,
+      "required": true
+    },
+    {
+      "projectID": 546670,
+      "fileID": 5162014,
+      "required": true
+    },
+    {
+      "projectID": 263420,
+      "fileID": 5212593,
+      "required": true
+    },
+    {
+      "projectID": 926083,
+      "fileID": 4815025,
+      "required": true
+    },
+    {
+      "projectID": 924854,
+      "fileID": 5162617,
+      "required": true
+    },
+    {
+      "projectID": 891429,
+      "fileID": 5228248,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
